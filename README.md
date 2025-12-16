@@ -7,6 +7,7 @@ I have 2 years of practical IT consulting experience and a strong foundation in 
 - 📊 I'm passionate about the **full data lifecycle**, from data extraction and transformation to analysis and insight generation.
 - 💪 In my free time, I train as a **calisthenics athlete**.
 - 🎮 I also enjoy **story-rich and competitive video games**.
+- ⚙️ Recently started playing with **Raspberry Pi**, exploring small projects and learning as I go.
 - 📭 You can reach me through my [LinkedIn](https://gr.linkedin.com/in/alexandros-alatzas) profile.
 
 ### 🛠️ Tech Stack
