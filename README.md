@@ -4,7 +4,7 @@ This page currently showcases my **academic projects**, with more to come as I c
 ### 🚀 About me
 I'm an undergraduate student at the **University of Athens**, majoring in Computer Science and currently completing my final graduation project.  
 I have 2 years of practical IT consulting experience and a strong foundation in programming and databases.
-- 📊 I'm passionate about **data analytics**, with particular interest in **business intelligence**.
+- 📊 I'm passionate about the **full data lifecycle**, from data extraction and transformation to analysis and insight generation.
 - 💪 In my free time, I train as a **calisthenics athlete**.
 - 🎮 I also enjoy **story-rich and competitive video games**.
 - 📭 You can reach me through my [LinkedIn](https://gr.linkedin.com/in/alexandros-alatzas) profile.
