@@ -1,5 +1,5 @@
 ## Hi there, I'm Alex 👋
-This page currently showcases my **academic projects**, with more to come as I continue growing as a developer and analyst.
+This page currently showcases my **academic projects**, with more to come as I continue growing as a developer.
 
 ### 🚀 About me
 I'm an undergraduate student at the **University of Athens**, majoring in Computer Science and currently completing my final graduation project.  
